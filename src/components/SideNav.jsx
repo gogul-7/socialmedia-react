@@ -4,7 +4,7 @@ import './SideNav.css'
 function SideNav() {
   return (
     <div >
-        <p>Menu</p>
+        <p className='menuname'>Menu</p>
         <ul className='listitems'>
             <li className='list'><i class="fa-sharp fa-solid fa-house"></i>&nbsp;&nbsp;&nbsp;Home</li>
             <li className='list'><i class="fa-solid fa-magnifying-glass"></i>&nbsp;&nbsp;&nbsp;Search</li>

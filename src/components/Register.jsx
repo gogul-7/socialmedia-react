@@ -18,7 +18,7 @@ function Register() {
                             <input type="text" placeholder='Email' />
                             <input type="text" placeholder='Password' />
                             <button>Signup</button>
-                            <p style={{ marginTop: '-20px' }}>OR</p>
+                            <p style={{ marginTop: '-20px'}}>OR</p>
                             <div>
                                 <button className='google_button'><i class="fa-brands fa-google"></i></button>
                             </div>
